@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🧠 StockMind — Demand Forecasting & Inventory Decision Support System
+# 🧠 StockMind — Demand Forecasting
+### An AI-Powered Multi-Series Demand Forecasting & Inventory Decision Support System
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white">
